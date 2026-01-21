@@ -1,0 +1,848 @@
+======================================================================
+ASSIGNMENT D: QUESTIONS 1, 2, 4, AND 5
+======================================================================
+
+Loading dataset...
+Dataset loaded: 6061 statements
+
+======================================================================
+Q1: ALTERNATIVE FORMULATIONS FOR 'ENERGY SUPPLY SECURITY'
+======================================================================
+
+SEARCH 1: Direct 'supply security' mentions
+----------------------------------------------------------------------
+Found 72 statements
+
+Sample statements (first 3):
+
+1. [ID: 17] Kraka Economics
+   The original arguments for Energy Island Bornholm, such as promises of an export boom and massive revenues, have largely fallen apart. As a result, supply security has increasingly become the central justification for the project. However, this is in...
+
+2. [ID: 115] Chris Peeters
+   The establishment of a Belgian-Danish cable is an important next step in making our electricity system more sustainable. This project will enhance supply security and allow us to continue pioneering innovative technologies, giving our businesses a co...
+
+3. [ID: 149] Lars Aagaard
+   If we do not have the international connections via energy islands as originally envisioned with Energy Island Bornholm and Energy Island North Sea, then the Danish energy supply security is expected to face challenges leading up to and after 2030. T...
+
+======================================================================
+SEARCH 2: Reliability and stability terms
+----------------------------------------------------------------------
+Found 104 statements
+
+Sample statements (first 3):
+
+1. [ID: 16] Jacob Trøst
+   As Mayor of Bornholm, I fully support delivering a sustainable society to future generations, but we must ensure this development is pursued effectively. The Energy Island project on Bornholm, slated to provide between 3 and 7 gigawatts of green elec...
+
+2. [ID: 85] Hanne Storm Edlefsen
+   I understand that Bornholm residents want to benefit from the Energy Island, particularly in terms of consuming and producing green electricity on the island. Our analysis shows that it is both technically feasible and a sound socio-economic solution...
+
+3. [ID: 112] Brian Vad Mathiesen
+   I believe that while the recent report by Kraka Economics raises some valid concerns, it misses the larger picture regarding the energy island project near Bornholm. The report critiques the economic aspects, especially the high cost of connecting wi...
+
+======================================================================
+SEARCH 3: Backup and intermittency terms
+----------------------------------------------------------------------
+Found 74 statements
+
+Sample statements (first 3):
+
+1. [ID: 85] Hanne Storm Edlefsen
+   I understand that Bornholm residents want to benefit from the Energy Island, particularly in terms of consuming and producing green electricity on the island. Our analysis shows that it is both technically feasible and a sound socio-economic solution...
+
+2. [ID: 149] Lars Aagaard
+   If we do not have the international connections via energy islands as originally envisioned with Energy Island Bornholm and Energy Island North Sea, then the Danish energy supply security is expected to face challenges leading up to and after 2030. T...
+
+3. [ID: 193] Facebook user
+   The cost comparison between energy islands and nuclear power is revealing. Constructing 8.4 GW of nuclear power costs 202 billion DKK, while building two energy islands costs 210 billion DKK, delivering only about 3 GW when the wind blows. This highl...
+
+======================================================================
+SEARCH 4: Issue 5 ('Will we have a stable energy supply?') samples
+----------------------------------------------------------------------
+Issue 5 contains 755 statements (12.5%)
+
+Random sample from Issue 5 (5 statements):
+
+1. [ID: 2463] LinkedIn user
+   Wind turbines do not replace fossil fuels; they displace fossil fuels only when wind conditions allow them to operate, which is not all the time. During calm weather, especially in the British winter, wind generation drops significantly, forcing reli...
+
+2. [ID: 5247] Dina Raabjerg
+   This is a catastrophe for the green transition, a catastrophe for the plan supporting the green transition, and a catastrophe for Energy Island Bornholm, as the largest part of its financing has now disappeared. To put it bluntly, the rug has been pu...
+
+3. [ID: 256] Danish Energy Agency
+   We, the Danish Energy Agency, believe that the benefits of improved energy security from the Bornholm Energy Island project are insufficient to offset the significant economic deficits associated with the project. Our latest cost-benefit analysis rev...
+
+4. [ID: 478] Reddit user
+   We really should be diversifying with everything renewable so we don't put all our eggs in one basket, that being energy islands, like we have with fossil fuels.
+
+Wind, traditional hydro, sea currents, geothermal, solar, kinetic.
+
+It would also help ...
+
+5. [ID: 4769] Steffen W. Frølund
+   “Let me highlight the broader issue with Danish climate policy, exemplified by the energy island scandal. Far too often, we gamble everything on one or a few grandiose projects. While these might generate headlines for the responsible minister, they ...
+
+
+======================================================================
+Q2: COMPREHENSIVE SUPPLY SECURITY QUERY
+======================================================================
+
+QUERY RESULTS
+----------------------------------------------------------------------
+Total matches: 320 statements
+Percentage of corpus: 5.3%
+
+Overlap with Issue 5: 214 statements
+Issue 5 has 755 statements total
+Coverage of Issue 5: 28.3%
+
+Distribution by year:
+  1998: 1 statements
+  2002: 1 statements
+  2006: 1 statements
+  2011: 4 statements
+  2012: 2 statements
+  2014: 3 statements
+  2015: 3 statements
+  2016: 7 statements
+  2017: 8 statements
+  2018: 2 statements
+  2019: 5 statements
+  2020: 7 statements
+  2021: 43 statements
+  2022: 42 statements
+  2023: 39 statements
+  2024: 112 statements
+  2025: 40 statements
+
+
+======================================================================
+Q4: CLUSTER ANALYSIS FOR SUPPLY SECURITY
+======================================================================
+
+Statements by cluster:
+----------------------------------------------------------------------
+Cluster (None): 233 statements (72.8%)
+Cluster Waste of tax payer’s money: 22 statements (6.9%)
+Cluster Energy hubs towards P2X: 19 statements (5.9%)
+Cluster Job creation and innovation: 12 statements (3.8%)
+Cluster The nuclear alternative: 7 statements (2.2%)
+Cluster Belgium’s energy island: 6 statements (1.9%)
+Cluster Financial viability and (un)profitability: 5 statements (1.6%)
+Cluster Energy islands as a cornerstone in Europe’s green transition: 5 statements (1.6%)
+Cluster Financial uncertainty around Bornholm project: 4 statements (1.2%)
+Cluster German collaboration: 4 statements (1.2%)
+Cluster Development & innovation opportunities on Bornholm: 1 statements (0.3%)
+Cluster Strategy and planning: 1 statements (0.3%)
+Cluster Denmark as a green energy pioneer: 1 statements (0.3%)
+
+Top 3 clusters:
+1. Cluster (None): 233 statements (72.8%)
+2. Cluster Waste of tax payer’s money: 22 statements (6.9%)
+3. Cluster Energy hubs towards P2X: 19 statements (5.9%)
+
+Sample statements from Cluster (None) (top cluster):
+
+1. [ID: 58] LinkedIn user
+   I think Denmark should proceed with building the world’s first true energy island, as this is a unique and groundbreaking project. The energy island has the potential to become the most significant public-private partnership in Danish history. 
+
+Priv...
+
+2. [ID: 73] Jacob Østergaard
+   I am enthusiastic about the Danish energy island projects, but I also have significant reservations. Adding ten gigawatts of energy to Denmark’s existing six-gigawatt grid will make the energy system more sensitive. A single electrical fault could oc...
+
+3. [ID: 85] Hanne Storm Edlefsen
+   I understand that Bornholm residents want to benefit from the Energy Island, particularly in terms of consuming and producing green electricity on the island. Our analysis shows that it is both technically feasible and a sound socio-economic solution...
+
+
+======================================================================
+Q5: COMBINED QUERY (Supply Security + Expertise)
+======================================================================
+
+Statements mentioning expertise: 1336
+Statements about supply security: 320
+
+COMBINED QUERY RESULTS
+----------------------------------------------------------------------
+Total matches: 116 statements
+Requirement (>=15): MET
+
+ALL MATCHING STATEMENTS:
+----------------------------------------------------------------------
+
+1. [ID: 17] Kraka Economics
+   Source: LinkedIn (2024-12-13)
+   Cluster: Waste of tax payer’s money
+   Statement: The original arguments for Energy Island Bornholm, such as promises of an export boom and massive revenues, have largely fallen apart. As a result, supply security has increasingly become the central justification for the project. However, this is insufficient to offset the poor socio-economic viabi...
+
+2. [ID: 85] Hanne Storm Edlefsen
+   Representative of: Energinet
+   Source: TV2 Bornholm (2024-10-29)
+   Cluster: (None)
+   Statement: I understand that Bornholm residents want to benefit from the Energy Island, particularly in terms of consuming and producing green electricity on the island. Our analysis shows that it is both technically feasible and a sound socio-economic solution. However, the establishment of the Energy Island ...
+
+3. [ID: 99] Claus M. Andersen
+   Representative of: Bornholm Energy & Supply
+   Source: LinkedIn (2025-01-13)
+   Cluster: Job creation and innovation
+   Statement: The Second Life for Powerplants project may be the most groundbreaking initiative we have hosted in the 15 years Bornholms Energi & Forsyning has been involved in research and demonstration projects. The combined heat and power plant on Skansevej in Rønne will soon house this initiative, which bring...
+
+4. [ID: 112] Brian Vad Mathiesen
+   Representative of: Aalborg University
+   Source: TV2 Bornholm (2024-08-22)
+   Cluster: (None)
+   Statement: I believe that while the recent report by Kraka Economics raises some valid concerns, it misses the larger picture regarding the energy island project near Bornholm. The report critiques the economic aspects, especially the high cost of connecting wind turbines, but it overlooks the broader importan...
+
+5. [ID: 122] Søren Linderoth
+   Representative of: DTU Energy
+   Source: Weekendavisen (2022-02-18)
+   Cluster: (None)
+   Statement: As a professor and director at DTU Energy with extensive experience in energy storage, I divide future green energy storage technologies into three main categories: batteries, thermal energy storage, and Power-to-X.
+
+Batteries are excellent for short-term electricity storage, particularly in electri...
+
+6. [ID: 191] Mads Kastrup
+   Representative of: Media outlet
+   Source: Ekstrabladet (2024-12-07)
+   Cluster: Financial viability and (un)profitability
+   Statement: The failure of the Danish "Energy Island" projects is total. Denmark's energy and climate policy, which clings to wind power as the country's salvation, is exposed as deeply flawed. The largest tender ever for a domestic offshore wind farm, intended to build gigantic wind turbines in the North Sea t...
+
+7. [ID: 253] Technical University of Denmark, Aalborg University
+   Source: DTU (2021-09-15)
+   Cluster: (None)
+   Statement: By 2033, a Danish minister will cut the ribbon and declare the North Sea energy island open. Denmark has 12 years to bridge the gap between existing solutions and those required to ensure the success of this ambitious “Mars mission” for the Danish energy system. Offshore energy islands offer a uniqu...
+
+8. [ID: 347] Vindparken Baltic Eagle
+   Source: Ingeniøren (2024-08-23)
+   Cluster: (None)
+   Statement: The Baltic Eagle wind farm near Rügen, with a nominal capacity of 476 MW, is estimated to cost 1.6 billion euros, or about 12 billion kroner. With a 50% utilization rate, the specific investment amounts to 52 billion kroner per GW. This is considerably more expensive than a Korean-built nuclear powe...
+
+9. [ID: 417] Søren Damkjær
+   Representative of: DSO Dinel
+   Source: Green Power Denmark (2017-03-13)
+   Cluster: (None)
+   Statement: The integration of renewable energy into infrastructure projects like the Aarhus Light Rail demonstrates how electricity distribution can support large-scale sustainability goals. As part of this project, we are constructing six converter stations, each with dual connections to the light rail system...
+
+10. [ID: 429] Leaders of Denmark, Belgium, Germany and the Netherlands
+   Source: Regeringen (2022-05-18)
+   Cluster: (None)
+   Statement: Energy security and the fight against climate change are crucial to the future of the European Union. Recalling the Versailles conclusions on energy, the European Commission’s communication on Joint European Action for more affordable, secure and sustainable energy, and the most recent IPCC report a...
+
+11. [ID: 451] Technical University of Denmark
+   Source: NPWPH, northseawindpowerhub.eu/ (2016-10-01)
+   Cluster: (None)
+   Statement: Danish Technical University highlights the importance of sector coupling to optimize energy systems by integrating offshore wind and hydrogen production, which helps to balance supply and demand fluctuations while supporting decarbonization of energy-intensive industries.
+
+12. [ID: 573] Sweco
+   Source: LinkedIn (2021-06-24)
+   Cluster: Energy hubs towards P2X
+   Statement: The Energy Island will set new standards for engineering, innovation, and interdisciplinary collaboration. It's an incredibly exciting, but also very complex, implementation task that we look forward to tackling.
+
+It will be Denmark’s largest infrastructure project in history, with an estimated tota...
+
+13. [ID: 638] Lars Løkke Rasmussen
+   Representative of: Danish parliament
+   Source: Gottlieb Paludan (2019-06-18)
+   Cluster: (None)
+   Statement: To address greenhouse gas emissions, I urge global leaders to cooperate and invest heavily in large-scale projects comparable in cost and ambition to the Apollo moon landing. Each nation should pursue transformative, technology-driven initiatives within its area of expertise.
+
+Denmark's goal is to i...
+
+14. [ID: 642] Rocky Mountain Institute
+   Source: IEEE Xplore (2017-11-05)
+   Cluster: (None)
+   Statement: Even though island electricity costs are, on average, three times higher than oil-based mainland electricity, the RMI study argues that island-based communities still enjoy significant benefits from alternatives to oil-based electricity systems. These benefits include operational cost savings, impro...
+
+15. [ID: 730] Lab of Soft Energy Applications & Environmental Protection
+   Representative of: Research Institution
+   Source: ResearchGate (2012-01-13)
+   Cluster: (None)
+   Statement: The study investigates the integration of renewable energy sources (RES) for the electrification of the island of Agios Efstratios, Greece. The aim is to achieve 100% energy autonomy using wind energy and energy storage solutions. Two energy storage technologies are explored: a mature lead-acid batt...
+
+16. [ID: 737] Reddit user
+   Representative of: General public opinion
+   Source: Reddit (2024-10-09)
+   Cluster: (None)
+   Statement: So now that batteries are on the way, the Energy Agency is expecting around 1 GW of storage capacity by 2030. Denmark already has around 16 GW of installed batteries, which translates to about 800 MWh in Denmark.
+
+When you say "maybe only a few weeks a year", it's because those 'small holes' in the ...
+
+17. [ID: 767] Reddit user
+   Representative of: General public opinion
+   Source: Reddit (2021-02-04)
+   Cluster: Financial viability and (un)profitability
+   Statement: The cost of the first stage of the Danish "Energy Island" project, which is planned to have 3000 MW capacity, is estimated at 210 billion DKK. This equates to a price of 70 million DKK per MW. In comparison, the new Finnish Olkiluoto 3 nuclear reactor, a third-generation plant, costs 63.75 billion D...
+
+18. [ID: 774] Mathilde Drouineau, Edi Assoumou, Vincent Mazauric, Nadia Maïzi
+   Representative of: MINES ParisTech, Centre for Applied Mathematics
+   Source: Science Direct (2015-03-09)
+   Cluster: (None)
+   Statement: The study -Increasing shares of intermittent sources in Reunion Island: Impacts on the future reliability of power supply- enables us to draw three main conclusions:
+• Electricity autonomy is achievable by 2030 with the available renewable energy sources potentials in the island. The three renewable...
+
+19. [ID: 826] Jianwei Gao, Haoyu Wu, North China Electric Power University
+   Representative of: North China Electric Power University
+   Source: SSRN (2024-10-29)
+   Cluster: (None)
+   Statement: Denmark's Energy Islands are significantly limited in their current design approach. Here's what needs to be done:
+The Energy Islands must be reimagined with integrated hydrogen systems. These islands should have:
+- Seawater hydrogen production units
+- Dedicated hydrogen storage facilities
+- Hydroge...
+
+20. [ID: 854] Facebook user
+   Representative of: General public opinion
+   Source: Facebook (2024-12-07)
+   Cluster: Financial viability and (un)profitability
+   Statement: THE COLD SHOWER  
+
+The FAILURE seems total. Denmark’s energy and climate policy, clinging to wind as the country’s savior, is now exposed like a winter swimmer regretting halfway down the pier.  
+
+The largest tender ever for a domestic offshore wind farm, involving the construction of giant turbines...
+
+21. [ID: 869] Journalist
+   Representative of: Zetland
+   Source: Zetland (2023-01-08)
+   Cluster: (None)
+   Statement: While researchers may calculate that it is theoretically possible to base energy supply on wind and solar power, I believe it is not desirable for several reasons.
+
+First, there will inevitably be numerous challenges in translating theory into practice, leading to delays in the energy transition and...
+
+22. [ID: 958] Márcia Filipa Oliveira Alves
+   Representative of: Tecnico Lisboa
+   Source: Tecnico Lisboa (2017-10-13)
+   Cluster: (None)
+   Statement: I see the implementation of renewable energy sources (RES) in isolated power systems, such as islands, as both a challenge and an opportunity. In my view, the intermittency of RES creates issues with grid stability and mismatches between power demand and supply. Each power system, in my opinion, mus...
+
+23. [ID: 963] Clean energy for EU islands
+   Source: Clean energy for EU islands (2017-01-01)
+   Cluster: (None)
+   Statement: The Danish “Energy Island” projects should consider the potential of local energy storage, such as neighbourhood batteries, to enhance grid security, reliability, and responsiveness amidst the growing integration of renewables. Neighbourhood batteries, like Alliander’s, could significantly impact so...
+
+24. [ID: 1002] Aliaksei Patonia , Veronika Lenivova , Rahmat Poudineh , Christoph Nolden
+   Representative of: The Oxford Institute for Energy Studies
+   Source: The Oxford Institute for Energy Studies (2025-01-13)
+   Cluster: (None)
+   Statement: As the world races to decarbonize its energy systems, the choice between transmitting green energy as electrons through high-voltage direct current (HVDC) lines or as molecules via hydrogen pipelines emerges as a critical decision. We consider this pivotal choice and compare the techno-economic char...
+
+25. [ID: 1005] Eiji Ohira
+   Representative of: Fuel Cell and Hydrogen Technology Group, NEDO, Japan
+   Source: Users TCP (2020-09-29)
+   Cluster: (None)
+   Statement: The Japanese Hydrogen Strategy, launched in 2017, outlines a vision for 2050 and an action plan for 2030 to establish a hydrogen economy. Japan is ambitiously pursuing this goal through research, development, and demonstration (RD&D) initiatives and supportive policy frameworks. For electrolysis, a ...
+
+26. [ID: 1183] Esben Baltzer Nielsen
+   Representative of: Vattenfall
+   Source: RTL Lëtzebuerg (2024-11-25)
+   Cluster: (None)
+   Statement: As a representative of Vattenfall, I can confirm that offshore wind farms like Kriegers Flak offer significant advantages. Located approximately 40 kilometers from the Danish coast, Kriegers Flak is Denmark's largest offshore wind park. The wind speeds this far out at sea are both high and consisten...
+
+27. [ID: 1260] Energinet
+   Source: DR (2024-12-09)
+   Cluster: (None)
+   Statement: Our analysis shows that it’s technically possible, and that it’s a good idea social economically (to make the connection). In addition to a lot of green energy, our analysis also shows that the people of Bornholm get better security of supply and relatively stable prices on electricity, if the local...
+
+28. [ID: 1279] Facebook user
+   Representative of: General public opinion
+   Source: Facebook (2024-10-07)
+   Cluster: (None)
+   Statement: "Expensive cables!?"
+Denmark has just built a 621 km "Viking Link" cable to England for a price of 13 billion kroner!?
+
+The government and the Energy Agency, in my view, use every possible and impossible argument to avoid establishing the costly Energy Island Bornholm project, just like with the Ene...
+
+29. [ID: 1365] Søren Møller Christensen
+   Representative of: Baltic Energy Island
+   Source: LinkedIn (2024-12-13)
+   Cluster: Waste of tax payer’s money
+   Statement: It is misleading that you are creating a narrative that the Bornholm Energy Island will cost Danish taxpayers DKK 31.5 billion. The Bornholm Energy Island encompasses both offshore wind and infrastructure and should be assessed based on its socio-economic impact. - The Danish Energy Agency has omitt...
+
+30. [ID: 1457] Neil Kermode
+   Representative of: European Marine Energy Centre
+   Source: Institution of Engineering and Technology (2022-07-01)
+   Cluster: (None)
+   Statement: As Neil Kermode, Managing Director of the European Marine Energy Centre (EMEC), I can see my garden wind turbine spinning vigorously. With average winter winds of 36 km/h, it produces 16,000 kilowatt-hours of electricity each year—more than enough to power my home and electric car. The surplus is so...
+
+31. [ID: 1479] Artur Usanov Alexander Kharin
+   Representative of: Researchers
+   Source: Centrum Balticum (2014-02-01)
+   Cluster: (None)
+   Statement: From a scientific perspective, I recognize that Lithuania's withdrawal from the IPS/UPS synchronized grid will turn Kaliningrad into an "energy island." As a result, cross-border electricity flows between Kaliningrad and Lithuania via existing transmission lines will become impossible. One potential...
+
+32. [ID: 1480] Inga Margrete Ydersbond
+   Representative of: Researcher
+   Source: JCMS Journals (2024-06-07)
+   Cluster: (None)
+   Statement: As a scientist, I observe that several energy islands have existed within the European Economic Area (EEA). In this context, an "energy island" refers to a country with less than 10% interconnection, meaning it has low transmission capacity to its neighboring countries. This situation makes the coun...
+
+33. [ID: 1523] Jørgen S. Christensen
+   Representative of: Green Power Denmark
+   Source: LinkedIn (2025-01-13)
+   Cluster: (None)
+   Statement: 2030 is approaching quickly, and we must prioritize research, development, and demonstration efforts to rapidly develop commercial solutions. I see three key areas as guiding beacons for progress: smart energy management, energy storage, and Power-to-X technologies. These are the critical elements t...
+
+34. [ID: 1531] LinkedIn user
+   Representative of: General public opinion
+   Source: LinkedIn (2025-01-13)
+   Cluster: (None)
+   Statement: Comment to post about prioritizing research, development and demonstration in smart management, storage, and Power-to-X. :
+
+"It is incredibly important to emphasize that innovation must be prioritized right now to achieve the 70% agenda. The future is here, but we do not yet have all the solutions r...
+
+35. [ID: 1897] Liu, Hongda
+   Representative of: Harbin Engineering University
+   Source: Harbin Engineering University (2014-04-07)
+   Cluster: (None)
+   Statement: In this article, we present insights from the actual construction of a hybrid energy system consisting of solar, wind, tidal, and battery components. We provide a detailed analysis of its design and application within an independent island micro-grid, covering technical, economic, and practical cons...
+
+36. [ID: 2129] Technical University of Denmark
+   Representative of: DTU Sector Development Project
+   Source: DTU (2023-06-01)
+   Cluster: (None)
+   Statement: DTU Sektorudviklingsprojekt recommends six initiatives to be launched immediately, in collaboration between industry and research, to ensure the success of energy islands. 
+
+These include securing resilience against digital and physical threats, assessing wind and weather conditions for design and e...
+
+37. [ID: 2136] The Danish Energy Agency
+   Source: Dansk Økonomi (2024-09-27)
+   Cluster: Waste of tax payer’s money
+   Statement: The Danish Energy Agency (Energistyrelsen) has assessed the socio-economic consequences of various configurations of the Bornholm Energy Island project, which includes wind farms, a transformer station on Bornholm, and grid connections to Denmark and Germany. The central estimates for the socio-econ...
+
+38. [ID: 2213] LinkedIn user
+   Representative of: General public opinion
+   Source: LinkedIn (2024-12-30)
+   Cluster: Waste of tax payer’s money
+   Statement: Energy Island Bornholm
+
+The text below is the introduction to my note on Energy Island Bornholm. You can no longer attach a file or a link to posts on LinkedIn, but I am happy to send the entire note to those interested.
+
+Energy Island Bornholm is intended to pave the way for Denmark to maintain its...
+
+39. [ID: 2225] Kraka Economics
+   Source: LinkedIn (2024-12-13)
+   Cluster: Waste of tax payer’s money
+   Statement: "If it cannot be documented that the project provides a socio-economic surplus, it should be dropped."
+
+This is what the Economic Council wrote about Energy Island Bornholm in their autumn report 2024. At the same time, they recommended including more effects in the socio-economic assessment, such a...
+
+40. [ID: 2234] Frederik Læssøe Nielsen
+   Representative of: Kraka Economics
+   Source: Altinget (2024-12-02)
+   Cluster: Waste of tax payer’s money
+   Statement: The supporters of the Energy Island Bornholm project are changing the premise of the discussion instead of doing the only responsible thing, which is to cancel the project. Politicians are avoiding making the right but politically uncomfortable decisions. The original arguments for the project have ...
+
+41. [ID: 2311] Youtube user
+   Representative of: General public opinion
+   Source: YouTube (2021-06-15)
+   Cluster: (None)
+   Statement: Future energy infrastructure will most likely consist of moored super vessels rather than constructing entire islands. Plans already exist for vessels measuring 500x200 meters that are moored and tethered together, providing a more flexible and resilient solution compared to fixed islands, which are...
+
+42. [ID: 2377] B.V. Mathiesen
+   Representative of: Aalborg Universitet
+   Source: Science Direct (2024-12-16)
+   Cluster: (None)
+   Statement: ...Our research aimed to identify the most effective smart energy system for Denmark, encompassing electricity, heat, and gas infrastructure, to facilitate the integration of intermittent Variable Renewable Energy (VRE) sources. 
+
+We analyzed the investment costs and efficiency of different systems ...
+
+43. [ID: 2380] Benjamin Kroposki
+   Representative of: National Renewable Energy Laboratory
+   Source: IEEE Xplore (2017-11-30)
+   Cluster: (None)
+   Statement: Integrating high levels of Variable Renewable Energy (VRE), like wind and solar power, into the electricity grid is a significant technical challenge. These challenges arise from the inherent variability and uncertainty of these resources, as well as their impact on grid stability due to their async...
+
+44. [ID: 2442] Jyllands posten
+   Representative of: Madia outlet
+   Source: Jyllandsposten (2024-12-25)
+   Cluster: Waste of tax payer’s money
+   Statement: The Danish Energy Agency's 2023 calculations indicate a deficit of DKK 4 billion for the Energiø Bornholm project if Europe meets its climate goals. However, these calculations overlook several significant values generated by Energiø Bornholm's visionary and innovative nature.  
+
+First, the Energy I...
+
+45. [ID: 2475] Hanne Storm Edlefsen
+   Representative of: Energinet
+   Source: TV2 Bornholm (2023-01-29)
+   Cluster: (None)
+   Statement: The technical aspects needed to make a direct connection possible are not quite in place yet. But we are quite optimistic. Our analysts have looked into how it can be done. We’ve talked to the market about how it should ideally be able to deliver those solutions in a couple of years. What we’re curr...
+
+46. [ID: 2522] Hanne Storm Edlefsen
+   Representative of: Energinet
+   Source: TV2 Bornholm (2024-10-29)
+   Cluster: (None)
+   Statement: We understand that the people of Bornholm want to benefit from the advantages the Energy Island brings, both in terms of green electricity consumption and production on the island. I am pleased that our analysis shows it is technically feasible and a good solution from a socioeconomic perspective. H...
+
+47. [ID: 2578] Ulrik Stridbæk
+   Representative of: Ørsted
+   Source: Ingeniøren (2015-01-15)
+   Cluster: (None)
+   Statement: Ørsted does not oppose the concept of fixed energy islands, recognizing their added capabilities compared to a platform. These capabilities include hosting a Power-to-X (PtX) facility, various types of energy storage, and accommodations for personnel to stay on the island for extended periods. Howev...
+
+48. [ID: 2583] The Economic Council
+   Source: EnergyWatch (2024-10-08)
+   Cluster: (None)
+   Statement: In the socio-economic assessment, several effects have not been included because they are difficult to quantify, including supply security and potential Power-to-X production. Therefore, it is recommended to conduct a socio-economic analysis that incorporates as many effects as possible when reconsi...
+
+49. [ID: 2588] May Ee Wong
+   Representative of: Media+Environment
+   Source: Media+Environment (2024-12-31)
+   Cluster: (None)
+   Statement: The Danish wind energy model, including our Energy Island projects, isn't as straightforward as it appears. While Denmark presents wind energy as a stable, reliable resource, this stability is actually created through complex data manipulation and statistical modeling. We use various tools - from ph...
+
+50. [ID: 2591] Yanan Li
+   Representative of: 2023 3rd International Conference on Energy Engineering and Power Systems (EEPS)
+   Source: 2023 3rd International Conference on Energy Engineering and Power Systems (EEPS) (2023-07-28)
+   Cluster: (None)
+   Statement: Energy islands integrating renewable energy like wind and solar offer a comprehensive system for energy generation, consumption, and storage. They reduce land and sea transmission costs by serving as centers for energy storage, conversion, and hydrogen production. Energy islands can also support mar...
+
+51. [ID: 2612] J.E. Tamis, R.G. Jak
+   Representative of: Wageningen Marine Research
+   Source: Den Helder (2022-07-01)
+   Cluster: (None)
+   Statement: To develop cost-effective renewable energy production offshore, we propose a hybrid maintenance and energy storage island, protected by a reef breakwater structure, in the North Sea. This island would address Operation & Maintenance needs, efficient energy conversion, transport, and storage during p...
+
+52. [ID: 2616] Monica Carlsson
+   Representative of: Aarhus University
+   Source: AJOL (African Journals OnLine) (2025-01-13)
+   Cluster: (None)
+   Statement: Monica Carlsson asserts that the Renewable Energy Island (REI) project on Samsø highlights the importance of both individual and collective efforts in driving transformative change related to climate issues. Monica Carlsson emphasizes the role of everyday participation and the interplay between envi...
+
+53. [ID: 2659] Troels Lund Poulsen
+   Representative of: Danish Defence Ministry
+   Source: Folketinget, Forsvarsministeriet (2024-04-26)
+   Cluster: (None)
+   Statement: The Danish Defence Ministry, under my leadership, acknowledges the concerns expressed by Borgerforeningen Energiø Bornholm about the security, supply security, and socio-economic implications of the Energy Island projects on Bornholm. The Defence Intelligence Service currently assesses that there is...
+
+54. [ID: 2660] Rasmus Horn Langhoff
+   Representative of: det Økonomiske Råd
+   Source: Folketinget (2024-11-05)
+   Cluster: (None)
+   Statement: The Economic Council recommends conducting a socio-economic analysis that incorporates all positive socio-economic benefits and effects resulting from the Bornholm Energy Island. This includes key aspects such as energy supply security and the potential for Power-to-X production
+
+55. [ID: 2686] Statsministeriet
+   Source: Danish ministry of climate, energy and utilities (2025-01-13)
+   Cluster: (None)
+   Statement: Statsministeriet stresses that energy security and combating climate change are fundamental to the future of the European Union. Citing key European initiatives such as the Versailles conclusions on energy, the European Commission’s Joint European Action for affordable, secure, and sustainable energ...
+
+56. [ID: 2886] Jakob Nørmark
+   Representative of: Bornholms Tidende
+   Source: Bornholms Tidende (2022-01-07)
+   Cluster: (None)
+   Statement: Our analysis has revealed two key findings. First, we can safely connect the energy island's power cables to Bornholm's grid without risking stability or supply security - and we can do this while staying on schedule. Second, and just as importantly, connecting Bornholm's grid to the energy island's...
+
+57. [ID: 2921] Danish Energy Agency
+   Source: Danish energy agency (2024-11-18)
+   Cluster: (None)
+   Statement: The islands are a pioneer project that will necessitate the deployment of existing knowledge into an entirely new context. Working together with well-established actors in the industry and the highest level of expertise in the field, our goal is to find the best solutions to the aspects of the proje...
+
+58. [ID: 3030] Anders Overgaard Bjarklev
+   Representative of: Technical University of Denmark (DTU)
+   Source: LinkedIn (2024-09-01)
+   Cluster: Job creation and innovation
+   Statement: The Bornholm Energy Island project represents a crucial opportunity that DTU has been preparing for nearly 20 years. DTU has been actively collaborating on Bornholm in developing future energy systems, including energy storage, wind power integration, smart district heating systems, and flexible con...
+
+59. [ID: 3040] Lars Aagaard
+   Representative of: Danish parliament, Moderaterne
+   Source: Information (2024-08-27)
+   Cluster: Financial viability and (un)profitability
+   Statement: In 2020, when the previous government made the initial agreement on the energy islands, it was assumed that the offshore wind turbines would not only be self-financing but also cover the cost of the necessary electricity infrastructure. However, in our assessment last year, we found that offshore wi...
+
+60. [ID: 3070] Peter Mogensen
+   Representative of: Kraka Economics
+   Source: Altinget (2024-08-21)
+   Cluster: (None)
+   Statement: The cost of establishing the nine gigawatts of offshore wind Denmark plans by 2030 has risen by DKK 46 billion since 2022, according to a PWC report. While price fluctuations are a valid topic of discussion, Kraka Economics believes the market should resolve these issues, not the state. If it become...
+
+61. [ID: 3109] Duvivier, Alban J. F.; Cutululis, Nicolaos A.; Saborío-Romano, Oscar; Randewijk, Peter Jan; Yang, Li
+   Representative of: CIGRE (International Council on Large Electric Systems)
+   Source: Proceedings of CIGRE Paris Session 2024 (2024-01-01)
+   Cluster: (None)
+   Statement: The Danish "Energy Island" project, with its multi-terminal HVDC grid model, presents a viable approach for integrating significant amounts of offshore wind power. This study investigates energy dissipation strategies in such systems, particularly focusing on a 4GW HVDC-MT grid designed to connect B...
+
+62. [ID: 3208] May Ee Wong
+   Source: Wong, May Ee. 2024. “From Wind Turbines to Energy Islands: Wind as Model Power in Denmark.” Media+Environment 6 (2) (2025-01-13)
+   Cluster: (None)
+   Statement: The Danish “Energy Island” projects highlight the challenges of wind energy infrastructure, particularly its ontological and epistemic instability. While wind energy systems aim to optimize electrical energy production, the fundamental nature of wind itself defies full capture and understanding. Win...
+
+63. [ID: 3211] Michael Ertmann
+   Representative of: Copenhagen Infrastructure Partners (CIP)
+   Source: Maritime hydrogen and Marine Energy conference (2021-10-20)
+   Cluster: Energy islands as a cornerstone in Europe’s green transition
+   Statement: Energy islands, utilizing a hub-and-spoke model, provide a cost-efficient solution for large-scale offshore wind deployment. They enable the integration of innovative technologies, including large-scale energy storage and Power-to-X (PtX), while maximizing the value of green products.  
+
+These islan...
+
+64. [ID: 3219] Bornholm Energy & Supply
+   Source: BEOF (2025-01-13)
+   Cluster: Strategy and planning
+   Statement: Bornholm's energy and supply position is as follows:
+
+To transform Bornholm into a green island, two major challenges must be addressed. First, CO2 emissions from transportation must be reduced by transitioning the vehicle fleet to electric cars, thereby achieving independence from fossil fuels. Sec...
+
+65. [ID: 3320] 50Hertz Transmission GmbH
+   Source: LinkedIn (2023-04-26)
+   Cluster: German collaboration
+   Statement: What an exciting hashtag - Offshore Week! Only the hashtag - NorthSeaSummit23 in Ostend, now the annual conference of hashtag - WindEurope in Copenhagen. We are present there until tomorrow with and with our joint stand. Today, Crown Prince Frederik of Denmark saw an idea of how our three energy isl...
+
+66. [ID: 3359] Baltic Energy Island
+   Source: Baltic Energy Island (2025-01-13)
+   Cluster: (None)
+   Statement: The Baltic Energy Island emphasizes that developers, energy companies, transmission system operators (TSOs), research institutes, and authorities across Europe are united in the objective of establishing the first energy islands by 2030 or shortly thereafter. The primary focus of the roadmap is to i...
+
+67. [ID: 3360] Thomas Dalsgaard
+   Representative of: Copenhagen Infrastructure Partners (CIP)
+   Source: The Maritime executive (2021-11-30)
+   Cluster: Energy hubs towards P2X
+   Statement: As a partner at Copenhagen Infrastructure Partners, I'm pleased to announce that we have selected the NJORD Group to play a crucial role in the development of our ambitious Energy Island project. Based on rigorous evaluation, we are confident that NJORD possesses the expertise and capabilities neces...
+
+68. [ID: 3561] Reddit user
+   Representative of: General public opinion
+   Source: Reddit (2024-01-31)
+   Cluster: (None)
+   Statement: Offshore wind provides an accessible and straightforward way to add significant gigawatts of renewable power, as it bypasses land and permitting challenges. However, solar remains cheaper for daytime energy production, and onshore wind is easier to integrate into the grid and less expensive to insta...
+
+69. [ID: 3573] Jess Hansen
+   Representative of: Sweco
+   Source: LinkedIn (2022-01-13)
+   Cluster: Energy hubs towards P2X
+   Statement: At Sweco, we are thrilled to have been awarded the contract as technical advisor for the Danish Energy Agency on the North Sea Energy Island development. This is the first project of its kind globally. It is a historically large, ambitious, and critical initiative for Denmark's future energy supply,...
+
+70. [ID: 3846] Thomas Dermine
+   Representative of: Belgian government
+   Source: Elia Group (2023-02-13)
+   Cluster: Belgium’s energy island
+   Statement: “With vision, ambition and good interactions between government and business, Belgium has
+established itself over the past 20 years as one of the world leaders in the development of
+offshore wind energy. Just as they did in the beginning, Belgian companies now have the
+opportunity to take the mead w...
+
+71. [ID: 3862] Roger Nickells
+   Representative of: Buro Happold Engineering
+   Source: Buro Happold Engineering (2025-01-13)
+   Cluster: (None)
+   Statement: We’re at a crossroads: we’ve got climate challenges, resilience
+challenges and challenges with cost models. That sounds like an
+engineering problem, and it is. We’re fascinated by what we can do
+using an engineering mindset, to start to drive change.
+In the current energy system, we have power stati...
+
+72. [ID: 3870] Melanie Markwick-Day
+   Representative of: CHUBB
+   Source: CHUBB (2025-01-13)
+   Cluster: (None)
+   Statement: Meshed offshore grid projects face unique challenges related to the cost and complexity of installing and maintaining HVDC infrastructure, which is essential for creating meshed offshore grids. While HVDC cables are more economical than HVAC cables over long distances, the high upfront costs of equi...
+
+73. [ID: 3888] LinkedIn user
+   Representative of: General public opinion
+   Source: LinkedIn (2025-01-13)
+   Cluster: (None)
+   Statement: The analysis of power outages in the United States from 2001 to 2020 shows that states with a high share of wind and solar energy experienced fewer and shorter blackouts compared to regions reliant on fossil fuels. This is partly due to the superior management of grids with a high proportion of rene...
+
+74. [ID: 3927] Thomas Dalsgaard
+   Representative of: Copenhagen Infrastructure Partners (CIP)
+   Source: LinkedIn (2021-12-09)
+   Cluster: Energy hubs towards P2X
+   Statement: Copenhagen Infrastructure Partners (CIP) has carefully selected the Njord Group, consisting of ACCIONA, DEMA, MT Højgaard International, and Boskalis, to develop the Danish Energy Island project. These contractors bring substantial and complementary experience in marine construction, having successf...
+
+75. [ID: 4016] Martin Skov Skjøth-Rasmussen
+   Representative of: Haldor Topsøe
+   Source: DR (2019-09-13)
+   Cluster: (None)
+   Statement: At Haldor Topsøe, we are working on a completely different approach to energy storage than the commonly discussed batteries. We focus on storing energy in chemicals such as hydrogen, methane, methanol, and ammonia, which can be used as fuel. This is where our expertise in electrolysis comes into pla...
+
+76. [ID: 4048] Brian Vad Mathiesen
+   Representative of: Aalborg University
+   Source: X (2024-08-23)
+   Cluster: Waste of tax payer’s money
+   Statement: Energy Island Bornholm is a highly complex project. 
+
+The recent report from the think tank Kraka, titled 'Energy Island Bornholm: An Economic Slow-Motion Catastrophe,' raises sharp criticism of the project. While the report rightly highlights the economic challenges, these issues are already well k...
+
+77. [ID: 4054] Reddit user
+   Representative of: General public opinion
+   Source: Reddit (2022-08-07)
+   Cluster: Energy hubs towards P2X
+   Statement: The Swedish engineering consultancy company Sweco is tasked with designing the world's first "energy island," a groundbreaking project with the capacity to supply electricity to 10 million European households. This project, eight kilometers off the west coast of Jutland, represents a major leap forw...
+
+78. [ID: 4288] Fabien Kayser
+   Representative of: IWR Online
+   Source: IWR Online (2022-07-25)
+   Cluster: (None)
+   Statement: The energy industry is undergoing a paradigm shift, with renewable energy becoming the mainstream solution for energy supply. Ostwind believes future renewable energy projects must integrate energy storage, sales, and sector coupling to address system-wide needs. Partnering with Ørsted will leverage...
+
+79. [ID: 4383] Steffen W. Frølund
+   Representative of: Danish parliament, liberal alliance
+   Source: LinkedIn (2024-10-01)
+   Cluster: The nuclear alternative
+   Statement: The Danish Energy Island projects are failing, as demonstrated by the abandonment of the North Sea Energy Island. Despite earlier claims by Dan Jørgensen that these projects would be faster and cheaper than nuclear power, this has proven untrue. Jørgensen should focus less on vanity projects and mor...
+
+80. [ID: 4385] Sten Sødring
+   Representative of: Engineering & Technology
+   Source: Engineering & Technology (2011-10-01)
+   Cluster: (None)
+   Statement: The coastal regions we're looking at have excellent wind energy potential, both onshore and offshore, but they're held back by insufficient electricity storage capacity. In our architectural assessment, we specifically evaluated locations based on their political will and environmental commitments. ...
+
+81. [ID: 4441] Allan Drummond
+   Representative of: General public opinion
+   Source: Dipanema (2025-01-13)
+   Cluster: (None)
+   Statement: The Danish "Energy Island" projects represent an innovative step toward achieving sustainable energy goals by creating self-sufficient or largely self-sufficient energy systems. These systems harness renewable energy sources such as wind, solar, and hydro, integrating them with advanced energy stora...
+
+82. [ID: 4611] Frederik Læssøe Nielsen
+   Representative of: Kraka Economics
+   Source: Facebook (2024-12-14)
+   Cluster: Waste of tax payer’s money
+   Statement: The Energy Island project on Bornholm is being described as an economic catastrophe unfolding in slow motion. Why are politicians so fixated on this project? According to an analysis from the Danish Energy Agency in a 2023 memo referenced by the Ministry of Climate, the value of improved security in...
+
+83. [ID: 4831] Claus M. Andersen
+   Representative of: Bornholm Energy & Supply
+   Source: LinkedIn (2023-01-01)
+   Cluster: Job creation and innovation
+   Statement: This might be the most groundbreaking project we’ve landed in the 15 years we’ve hosted research and demonstration projects.
+
+The Combined Heat and Power Plant on Skansevej in Rønne will soon house the Second Life for Powerplants project.
+
+A number of European pioneers in energy technology have team...
+
+84. [ID: 4832] Energinet
+   Source: LinkedIn (2022-12-01)
+   Cluster: Job creation and innovation
+   Statement: I am pleased to announce that we at Energinet are now beginning to explore the possibility of allowing the people of Bornholm to benefit from the electricity produced by the upcoming energy island in the Baltic Sea.
+
+The preliminary conclusion comes after an initial analysis, which shows that connec...
+
+85. [ID: 4839] Kraka Economics
+   Source: LinkedIn (2025-12-13)
+   Cluster: Waste of tax payer’s money
+   Statement: The benefits of increased supply security are not enough to make the Energy Island Bornholm project economically positive for society. According to an analysis referenced by Klimamonitor, the increased supply security will be worth approximately DKK 150 million in 2032.
+
+Although the analysis of sup...
+
+86. [ID: 4921] Thomas Derminne
+   Source: Jan De Nul (2023-02-28)
+   Cluster: Belgium’s energy island
+   Statement: I believe that with vision, ambition and good interplay between government and business, Belgium has grown over the past 20 years into one of the leaders for the development of offshore wind energy worldwide. Just like in the early days, there are once again opportunities for Belgian companies to ta...
+
+87. [ID: 5264] The Wise Men
+   Representative of: Economic Council
+   Source: TV2 Bornholm (2024-10-08)
+   Cluster: Waste of tax payer’s money
+   Statement: The Energy Island projects should be abandoned if it cannot be documented that they provide a net socio-economic benefit. Although there is significant uncertainty about future developments, the central socio-economic estimates in all scenarios are negative, ranging from a loss of 4 billion Danish k...
+
+88. [ID: 5535] LinkedIn user
+   Representative of: General public opinion
+   Source: LinkedIn (2024-08-20)
+   Cluster: (None)
+   Statement: Taxpayers should not face additional financial pressure, yet nuclear energy is being promoted as a solution? I question how a waste storage facility, requiring ongoing management for 200–1000 years, can compete with the cost of a cross-border electricity grid. Regarding the new reactors mentioned, w...
+
+89. [ID: 5596] Lars Aagaard
+   Representative of: Danish parliament, Moderaterne
+   Source: Danish ministry of climate, energy and utilities (2023-06-27)
+   Cluster: (None)
+   Statement: The government prioritizes maintaining a stable energy supply, recognizing the importance of protecting critical energy infrastructure, especially in light of the current security challenges following the war in Ukraine and the explosions in the Baltic Sea. As Denmark transitions to significantly in...
+
+90. [ID: 5708] Researchers
+   Representative of: College of Electrical and Information Engineering at Hunan University, Hunan Institute of Engineering, and School of Electric Power at South China University of Technology
+   Source: Renewable and Sustainable Energy Reviews (2016-01-22)
+   Cluster: (None)
+   Statement: We think the primary challenge with renewable energy is its variability and unpredictability due to weather dependence. To address this several effective measures can be implemented such as energy storage, microgrids, hybrid renewable energy systems, demand side management, distributed generation, a...
+
+91. [ID: 5714] Ken'ichi Matsumoto ,  Yuko Matsumura
+   Source: Renewable and Sustainable Energy Reviews (2022-04-26)
+   Cluster: (None)
+   Statement: We, Ken'ichi Matsumoto and Yuko Matsumura, believe that promoting renewable energy (RE) electricity in remote islands is critical due to its potential to address climate change and reduce reliance on expensive and less sustainable thermal power generation. Based on our research in Tsushima, we ident...
+
+92. [ID: 5716] Syed Wajahat Ali; Muhammad Sadiq; Yacine Terriche; Syed Ahmad Raza Naqvi; Le Quang Nhat Hoang; Muhammad Umair Mutarraf
+   Source: IEEE Xplore (2021-07-20)
+   Cluster: (None)
+   Statement: The rapid expansion of offshore wind generation is driving the world toward a decarbonized future with clean renewable energy. However, wind power's intermittent nature introduces challenges for wind turbine integration and transmission systems, such as power quality (PQ) issues and system stability...
+
+93. [ID: 5732] Researchers
+   Representative of: Faculty of Technology, Policy and Management, Delft University of Technology
+   Source: Energy Conversion and Management (2016-02-04)
+   Cluster: (None)
+   Statement: The offshore grid has unique technical, economic, and social characteristics, requiring different research methodologies for various questions. Net social benefits at a regional level generally increase with higher offshore wind capacities and more integrated grids. The grid can provide benefits suc...
+
+94. [ID: 5737] Andreas Arp
+   Representative of: Altinget
+   Source: Altinget (2024-12-13)
+   Cluster: Financial uncertainty around Bornholm project
+   Statement: historically large offshore wind tender in the North Sea, casting further uncertainty on the ambitions to establish an energy island near Bornholm.
+
+The failure of the North Sea wind tender leaves a billion-kroner hole in the fund intended to finance the large-scale political plans for the energy is...
+
+95. [ID: 5757] Til Kristian Vrana
+   Representative of: SINTEF Energy Research department
+   Source: SINTEF (2015-08-14)
+   Cluster: (None)
+   Statement: The electrical installations for offshore wind power plants are currently built above sea level. We know that the necessary substructure for a transformer or converter platform becomes more costly with increasing water depth and mass. Therefore, we believe the main challenges are the hydrostatic pre...
+
+96. [ID: 5803] Brian Vad Mathiesen
+   Representative of: Aalborg University
+   Source: TV2 Bornholm (2024-08-22)
+   Cluster: (None)
+   Statement: That is a justified criticism. It is the design that has been chosen, in relation to where the turbines are to be connected to the grid. It is more expensive than it could otherwise have been. The point I miss in the report is that it says that wind turbines are competitive and cheap. But the point ...
+
+97. [ID: 5855] Kärnfull Energi
+   Source: Facebook (2024-06-21)
+   Cluster: Waste of tax payer’s money
+   Statement: The Energy Island Bornholm project is an unnecessary and costly venture. According to the Danish Energy Agency, it will require at least 31.5 billion DKK in state subsidies, equivalent to three times the annual budget of the Danish police. In contrast, nuclear power does not require any state suppor...
+
+98. [ID: 5870] Frederik Læssøe Nielsen
+   Representative of: Kraka Economics
+   Source: Facebook (2024-12-14)
+   Cluster: Waste of tax payer’s money
+   Statement: Energy Island Bornholm is being described as a slow-motion economic disaster. Why are politicians so fixated on pushing this project forward?  
+
+According to a 2023 analysis from the Danish Energy Agency, detailed in a memorandum from the Climate Ministry, the value of improved security in the elect...
+
+99. [ID: 6030] Danish Ministry of Climate, Energy, and Utilities
+   Representative of: Danish government
+   Source: Bornholms Tidende (2025-01-13)
+   Cluster: (None)
+   Statement: The project benefits more than just electricity supply security. Danish electricity consumers are estimated to gain a double-digit billion-kroner benefit over the lifetime of the energy island, which will partly result in lower electricity prices.
+
+100. [ID: 6221] Wind Denmark
+   Representative of: Danish Industry
+   Source: Bornholms Tidende (2022-04-12)
+   Cluster: (None)
+   Statement: "e strongly advocate for the implementation of overplanting in the Danish Energy Island projects. By allowing wind farm developers to install more turbines within the designated area and place them closer together, we can significantly increase the overall capacity of these projects. Our analysis sh...
+
+101. [ID: 6291] Søren Møller Christensen
+   Representative of: Baltic Energy Island
+   Source: TV2 (2024-10-08)
+   Cluster: Waste of tax payer’s money
+   Statement: It is important to reassess the socio-economic aspects of the Energy Island project. The current discussion is based on outdated data from 2023, which is no longer relevant, and many factors are missing from the figures being debated today. These factors include the value of energy security in Easte...
+
+102. [ID: 6368] COWI
+   Source: Facebook (2021-12-01)
+   Cluster: Energy hubs towards P2X
+   Statement: We at COWI are proud to serve as the Owner’s engineer for the world’s first energy island, a groundbreaking project in the Danish North Sea. Copenhagen Infrastructure Partners (CIP) has entered into a partnership with four globally recognized companies—Acciona, Boskalis, DEME Group, and MT Højgaard—...
+
+103. [ID: 6395] Anders Bjarklev
+   Representative of: Technical University of Denmark
+   Source: LinkedIn (2024-09-01)
+   Cluster: Job creation and innovation
+   Statement: Bornholm is an important hub for renewable energy—a living laboratory where we contribute to the global transition while driving growth and creating value.
+
+The Technical University of Denmark (DTU) has been present on Bornholm for nearly 20 years, collaborating on the energy systems of the future. ...
+
+104. [ID: 6536] Frederik Læssøe Nielsen
+   Representative of: Kraka Economics
+   Source: Altinget (2024-12-02)
+   Cluster: (None)
+   Statement: "There is nothing to say that the political support for the project is wavering, because the original promises of profitability, better Danish security of supply and export adventure with hydrogen, produced by the large amounts of excess flow from the island, have all fallen to the ground. 
+
+Accordi...
+
+105. [ID: 6537] Ulrich Bang
+   Representative of: Danish Chamber of Commerce
+   Source: Jyllandsposten (2024-12-25)
+   Cluster: Waste of tax payer’s money
+Traceback (most recent call last):
+  File "C:\Users\romul\Projects\dtu-sts-material\notebooks\local\run_Q1_Q2_Q4_Q5.py", line 219, in <module>
+    print(f'   Statement: {stmt[:300]}...')
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\romul\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 206-207: character maps to <undefined>
