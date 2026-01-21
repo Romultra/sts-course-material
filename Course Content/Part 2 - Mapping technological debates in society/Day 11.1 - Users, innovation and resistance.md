@@ -1,0 +1,5 @@
+# Day 11.1 - Users, innovation and resistance
+
+---
+
+One of the greatest frustrations of scientists and engineers after a long research and development process is when innovations are not taken up by people and organizations despite proven functionality of the innovation. Even worse than a lack of interest and sales is a backlash against novel products and technologies. This can conjure up questions such as why do people not accept or use technologies and what would convince them to use and accept them. However, a one-size fits all answer to this question cannot do justice to the myriad different technologies, people and places implicated. In this session we therefore turn attention to the kinds of relations people have with technologies and how the engage with users in technology development. We explore the relevance of this for understanding and examining technology non-acceptance and resistance.
