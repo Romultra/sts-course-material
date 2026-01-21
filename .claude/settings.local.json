@@ -1,7 +1,15 @@
 {
   "permissions": {
     "allow": [
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(python -c:*)",
+      "Bash(. .venv/Scripts/activate)",
+      "Bash(python -m jupyter nbconvert:*)",
+      "Bash(. ../../.venv/Scripts/activate)",
+      "Bash(python run_Q1_Q2_Q4_Q5.py:*)"
+    ],
+    "deny": [
+      "Read(./Course Content/**/*)"
     ]
   }
 }
