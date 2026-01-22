@@ -9,7 +9,7 @@
       "Bash(python run_Q1_Q2_Q4_Q5.py:*)"
     ],
     "deny": [
-      "Read(./Course Content/**/*)"
+      "Read(./Course Content/PDFs/*)"
     ]
   }
 }
