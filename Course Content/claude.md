@@ -1,3 +1,16 @@
+# Course Content Processing
+
+## Current Task: Course Summary Creation
+
+**Goal:** Create `Course Summary.md` - a comprehensive exam cheatsheet synthesizing all lecture notes.
+
+**Phase 1 (do first):** Read all Part 1 lecture notes → Write Part 1 summary
+**Phase 2 (after /clear):** Read all Part 2 lecture notes → Append Part 2 summary
+
+See `C:\Users\Ultra\.claude\plans\eventual-puzzling-aho.md` for full file list and instructions.
+
+---
+
 # PDF to Markdown Conversion Progress
 
 ## Part 1: Assessing Sustainability (8 PDFs)
